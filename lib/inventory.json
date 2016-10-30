@@ -1,0 +1,68 @@
+{
+  "cars": [
+    {
+      "make": "Nissan",
+      "model": "Rogue",
+      "year": "2006",
+      "price": "8999",
+      "description": "This is an immaculate 2006 Nissan Rogue with only 25000 miles on it. Leather seats, power everything. You truly will be a loan ranger when you cruise the open road in this sleek unique suv."
+    },
+    {
+      "make": "Ford",
+      "model": "Bronco",
+      "year": "1989",
+      "price": "20000",
+      "description": "This is old classic is a beast in the streets. With one working window, no AC, and steering as loose as a swinging gate on a windy day you are sure to cook and fear for your life yet love every minute!"
+    },
+    {
+      "make": "Honda",
+      "model": "Pilot",
+      "year": "2006",
+      "price": "8500",
+      "description": "This is an immaculate 2006 Honda Pilot pronounced 'P Low'. Leather seats, power everything and AC that works great, you are sure to feel the upgrade from your previous 'classic'."
+    },
+    {
+      "make": "Nissan",
+      "model": "Rogue",
+      "year": "2006",
+      "price": "8999",
+      "description": "This is an immaculate 2006 Nissan Rogue with only 25000 miles on it. Leather seats, power everything. You truly will be a loan ranger when you cruise the open road in this sleek unique suv."
+    },
+    {
+      "make": "Ford",
+      "model": "Bronco",
+      "year": "1989",
+      "price": "20000",
+      "description": "This is old classic is a beast in the streets. With one working window, no AC, and steering as loose as a swinging gate on a windy day you are sure to cook and fear for your life yet love every minute!"
+    },
+    {
+      "make": "Honda",
+      "model": "Pilot",
+      "year": "2006",
+      "price": "8500",
+      "description": "This is an immaculate 2006 Honda Pilot pronounced 'P Low'. Leather seats, power everything and AC that works great, you are sure to feel the upgrade from your previous 'classic'."
+    },
+    {
+      "make": "Nissan",
+      "model": "Rogue",
+      "year": "2006",
+      "price": "8999",
+      "description": "This is an immaculate 2006 Nissan Rogue with only 25000 miles on it. Leather seats, power everything. You truly will be a loan ranger when you cruise the open road in this sleek unique suv."
+    },
+    {
+      "make": "Ford",
+      "model": "Bronco",
+      "year": "1989",
+      "price": "20000",
+      "description": "This is old classic is a beast in the streets. With one working window, no AC, and steering as loose as a swinging gate on a windy day you are sure to cook and fear for your life yet love every minute!"
+    },
+    {
+      "make": "Honda",
+      "model": "Pilot",
+      "year": "2006",
+      "price": "8500",
+      "description": "This is an immaculate 2006 Honda Pilot pronounced 'P Low'. Leather seats, power everything and AC that works great, you are sure to feel the upgrade from your previous 'classic'."
+    }
+    
+  ]
+}

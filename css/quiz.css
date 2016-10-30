@@ -1,0 +1,19 @@
+body {
+	font-family: 'Permanent Marker', cursive;
+	font-size: 2em;
+}
+
+h1 {
+	font-size: 5em;
+	text-align: center;
+}
+
+.carCard {
+	border: 1px solid #999;
+	word-wrap: break-word;
+}
+.toggleClass {
+	border: 5px solid #000;
+}
+
+
