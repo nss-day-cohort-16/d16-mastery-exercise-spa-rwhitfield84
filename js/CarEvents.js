@@ -4,12 +4,12 @@ var CarLot = (function (oldCarLot) {
   
 	oldCarLot.activateEvents = function() {
 
-		var input = document.getElementById("input");
-		var carCard = document.getElementsByClassName("carCard");
-    var editDescription;
-    var cardClassContains;
-    var cardClass;
-  	var color;
+        var input = document.getElementById("input");
+        var carCard = document.getElementsByClassName("carCard");
+        var editDescription;
+        var cardClassContains;
+        var cardClass;
+        var color;
 
 		document.addEventListener("click", function(event) {
 			

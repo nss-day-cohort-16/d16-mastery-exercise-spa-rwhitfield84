@@ -1,5 +1,5 @@
 #User notes
-This is a mastery exercise for Nashville Software School. The functionality fulfills the requirements. Be sure whe interracting with you car card, to click the center of the card to edit the description.
+This is a mastery exercise for Nashville Software School. The functionality fulfills the requirements. Be sure when interracting with you car card, to click the center of the card to edit the description.
 
 # Single Page Applications Quiz
 
