@@ -24,6 +24,10 @@ var CarLot = (function (oldCarLot) {
             cardClassContains = cardClass.classList.contains("toggleClass");
             CarLot.toggleClass(cardClass, color);      
           }
+           if(event.target.closest(".carCard") !== cardClass) {
+            color = "#fff";
+            CarLot.removeClass(cardClass,color);
+          }
 
       } 
         input.addEventListener("keyup", function (event) {
