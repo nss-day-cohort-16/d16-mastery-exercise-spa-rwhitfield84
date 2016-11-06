@@ -5,7 +5,6 @@ var CarLot = (function (oldCarLot) {
 	oldCarLot.activateEvents = function() {
 
         var input = document.getElementById("input");
-        // input = disabled;
         var carCard = document.getElementsByClassName("carCard");
         var editDescription;
         var cardClassContains;
@@ -16,7 +15,7 @@ var CarLot = (function (oldCarLot) {
 			
       for (var i = 0; i < carCard.length; i++) {
 
-      		if (event.target === carCard[i]) {
+      		if (event.target.closest(".carCard") === carCard[i]) {
       			cardClass = carCard[i];
             color = "#F7FF00";
             input.focus();
